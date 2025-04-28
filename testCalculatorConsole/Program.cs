@@ -10,8 +10,8 @@ namespace testCalculatorConsole
     {
         static void Main(string[] args)
         {
-            //@atakanclskn
-            //@mericozkaya
+            //@atakanclskn1
+            //@mericozkaya1
         }
     }
 }

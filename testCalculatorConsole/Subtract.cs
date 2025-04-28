@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace testCalculatorConsole
 {
-    internal class Multiplex
+    class Subtract
     {
     }
 }

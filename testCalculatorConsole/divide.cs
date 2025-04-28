@@ -1,10 +1,18 @@
 ﻿using System;
 
-public class Class1
+
+public class Divide
 {
-	public Class1()
-	{
-	
-	}
+    public void DivideNumbers(double x, double y)
+    {
+        if (y == 0)
+        {
+            Console.WriteLine("Hata: Bir sayı sıfıra bölünemez.");
+        }
+        else
+        {
+            Console.WriteLine($"Bölme Sonucu: {x / y}");
+        }
+    }
 }
 																																																																																			

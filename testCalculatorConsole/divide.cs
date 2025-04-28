@@ -9,7 +9,7 @@ public class Class1
 
 		x = 1; y = 2;	
 		
-		Console.ReadLine
+		
 	}
 }
 																																																																																			

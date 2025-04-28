@@ -17,6 +17,7 @@ namespace testCalculatorConsole
             {
                 Console.WriteLine("1.Sayıyı girin");
                 double x = Convert.ToDouble(Console.ReadLine());
+                
 
                 Console.WriteLine("Yapmak istediğiniz işlemin simgesini yazınız.(+,-,*,/)");
                 string input = Console.ReadLine();

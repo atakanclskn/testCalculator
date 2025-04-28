@@ -8,18 +8,20 @@ namespace testCalculatorConsole
 {
     class Summary
     {
+        public double sonuc;
 
-       public void sum(double x)
+        public void sum(double x)
         {
             Console.WriteLine("2.Sayıyı girin");
             double y = Convert.ToDouble(Console.ReadLine());
-
-            double sonuc;
 
             sonuc = x + y;
             Console.WriteLine("Sonuc: "+sonuc);
             Console.WriteLine("Yeni bir işlem için herhangi bir tuşa basınız.");
             Console.ReadLine();
+            sonuc = x;
+
+
 
        
         }

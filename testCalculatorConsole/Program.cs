@@ -11,8 +11,15 @@ namespace testCalculatorConsole
     {
         static void Main(string[] args)
         {
-            //@atakanclskn
-            //@mericozkaya
+            for (int i = 0; i < args.Length; i++)
+            {
+                Console.WriteLine($"{i}.Sayıyı girin");
+                double x = Convert.ToDouble(Console.ReadLine());
+
+                
+            }
+
+
         }
         
     }

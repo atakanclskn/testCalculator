@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\meric\\source\\repos\\atakanclskn\\testCalculator\\testCalculatorConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFB5ED1B-EB49-42D2-A849-D15B44960652}|testCalculatorConsole.csproj|c:\\users\\meric\\source\\repos\\atakanclskn\\testcalculator\\testcalculatorconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFB5ED1B-EB49-42D2-A849-D15B44960652}|testCalculatorConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meric\\source\\repos\\atakanclskn\\testCalculator\\testCalculatorConsole\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFB5ED1B-EB49-42D2-A849-D15B44960652}|testCalculatorConsole.csproj|C:\\Users\\meric\\source\\repos\\atakanclskn\\testCalculator\\testCalculatorConsole\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFB5ED1B-EB49-42D2-A849-D15B44960652}|testCalculatorConsole.csproj|solutionrelative:divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFB5ED1B-EB49-42D2-A849-D15B44960652}|testCalculatorConsole.csproj|c:\\users\\meric\\source\\repos\\atakanclskn\\testcalculator\\testcalculatorconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFB5ED1B-EB49-42D2-A849-D15B44960652}|testCalculatorConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\meric\\source\\repos\\atakanclskn\\testCalculator\\testCalculatorConsole\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "summary.cs",
               "DocumentMoniker": "C:\\Users\\meric\\source\\repos\\atakanclskn\\testCalculator\\testCalculatorConsole\\summary.cs",
               "RelativeDocumentMoniker": "summary.cs",
               "ToolTip": "C:\\Users\\meric\\source\\repos\\atakanclskn\\testCalculator\\testCalculatorConsole\\summary.cs",
               "RelativeToolTip": "summary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T21:42:34.466Z",
               "EditorCaption": ""
@@ -51,11 +51,12 @@
               "RelativeToolTip": "divide.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T20:51:38.301Z"
+              "WhenOpened": "2025-04-28T20:51:38.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\meric\\source\\repos\\atakanclskn\\testCalculator\\testCalculatorConsole\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

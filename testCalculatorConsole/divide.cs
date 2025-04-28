@@ -8,7 +8,7 @@ public class Class1
 		int y;
 
 		x = 1; y = 2;	
-
+		
 		
 	}
 }

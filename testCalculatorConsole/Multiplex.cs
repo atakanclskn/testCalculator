@@ -6,15 +6,7 @@ using System.Threading.Tasks;
 
 namespace testCalculatorConsole
 {
-    
-    internal class Program
+    internal class Multiplex
     {
-        static void Main(string[] args)
-        {
-            //@atakanclskn
-            //@mericozkaya
-        }
-        
     }
-    
 }

@@ -1,0 +1,73 @@
+# Visual Studio için temel ignore kuralları
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio working folder
+.vs/
+
+## Rider
+.idea/
+
+## Cache ve Database dosyaları
+*.dbmdl
+*.slnx.sqlite
+
+## Logs
+*.log
+
+## Npm ve Node.js klasörleri
+node_modules/
+
+## Publish klasörü
+publish/
+
+## Test Results
+TestResults/
+
+## Paketler
+*.nupkg
+*.snupkg
+packages/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swn
+
+# DotCover
+*.dotCover
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# SonarQube
+.sonar/
+
+# Others
+*.cache
+*.pdb
+*.pidb
+*.mdb
+
+# OS-specific
+.DS_Store
+Thumbs.db

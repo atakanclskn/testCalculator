@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace testCalculatorConsole
 {
-    class Summary
+    class Add
     {
 
-       public void sum(double x)
+       public void add(double x)
         {
             Console.WriteLine("2.Sayıyı girin");
             double y = Convert.ToDouble(Console.ReadLine());

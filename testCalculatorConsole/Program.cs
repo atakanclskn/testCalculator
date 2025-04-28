@@ -16,5 +16,5 @@ namespace testCalculatorConsole
         }
         
     }
-    public class divide { }
+    
 }

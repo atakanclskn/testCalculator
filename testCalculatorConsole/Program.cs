@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace testCalculatorConsole
 {
+    
     internal class Program
     {
         static void Main(string[] args)
         {
-
             //@atakanclskn
             //@mericozkaya
         }
+        
     }
+    public class divide { }
 }

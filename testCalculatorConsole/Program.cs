@@ -25,20 +25,20 @@ namespace testCalculatorConsole
                 switch (input)
                 {
                     case "+":
-                        Summary a = new Summary();
-                        a.sum(x);
+                        Add a = new Add();
+                        a.add(x);
                         break;
                     case "-":
                         Subtract b = new Subtract();
-                        //b.Method();
+                        b.subtract(x);
                         break;
                     case "*":
                         Multiply c = new Multiply();
-                        //c.Method();
+                        c.multiply(x);
                         break;
                     case "/":
                         Divide d = new Divide();
-                        //d.Method();
+                        d.divide(x);
                         break;
                     default:
                         Console.WriteLine($"Geçersiz seçim yaptınız. Sonuc:{x}");

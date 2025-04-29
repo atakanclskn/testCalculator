@@ -8,17 +8,12 @@ namespace testCalculatorConsole
 {
     class Divide
     {
-        public void divide(double x)
+        public void divide(double x, double y)
         {
-            Console.WriteLine("2.Sayıyı girin");
-            double y = Convert.ToDouble(Console.ReadLine());
 
-            double sonuc;
 
-            sonuc = x / y;
-            Console.WriteLine("Sonuc: " + sonuc);
-            Console.WriteLine("Yeni bir işlem için herhangi bir tuşa basınız.");
-            Console.ReadLine();
+            Global.sonuc = x / y;
+            
 
 
         }

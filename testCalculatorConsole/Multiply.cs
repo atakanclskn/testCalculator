@@ -8,17 +8,13 @@ namespace testCalculatorConsole
 {
     class Multiply
     {
-        public void multiply(double x)
+        
+        public void multiply(double x, double y)
         {
-            Console.WriteLine("2.Sayıyı girin");
-            double y = Convert.ToDouble(Console.ReadLine());
 
-            double sonuc;
 
-            sonuc = x * y;
-            Console.WriteLine("Sonuc: " + sonuc);
-            Console.WriteLine("Yeni bir işlem için herhangi bir tuşa basınız.");
-            Console.ReadLine();
+            Global.sonuc = x * y;
+            
 
 
         }

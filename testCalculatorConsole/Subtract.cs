@@ -8,17 +8,11 @@ namespace testCalculatorConsole
 {
     class Subtract
     {
-        public void subtract(double x)
+        public void subtract(double x, double y)
         {
-            Console.WriteLine("2.Sayıyı girin");
-            double y = Convert.ToDouble(Console.ReadLine());
 
-            double sonuc;
-
-            sonuc = x - y;
-            Console.WriteLine("Sonuc: " + sonuc);
-            Console.WriteLine("Yeni bir işlem için herhangi bir tuşa basınız.");
-            Console.ReadLine();
+            Global.sonuc = x - y;
+           
 
 
         }

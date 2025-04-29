@@ -9,15 +9,11 @@ namespace testCalculatorConsole
     class Add
     {
 
-       public void add(double x)
+       public void add(double x, double y)
         {
-            Console.WriteLine("2.Sayıyı girin");
-            double y = Convert.ToDouble(Console.ReadLine());
 
-            double sonuc;
-
-            sonuc = x + y;
-            Console.WriteLine("Sonuc: "+sonuc);
+            Global.sonuc = x + y;
+            Console.WriteLine("Sonuc: "+ Global.sonuc);
             Console.WriteLine("Yeni bir işlem için herhangi bir tuşa basınız.");
             Console.ReadLine();
 

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace testCalculatorConsole
 {
-    class Summary
+    public static class Global
     {
+        public static double sonuc;
     }
 }
